@@ -26,7 +26,7 @@ void solve(){
  cin>>n;
  for(int i=0;i<n;i++){
     cin>>p;
-    (i&1)?cout<<-abs(p)<<"  ":cout<<abs(p)<<" ";
+    (i&1)?cout<<-abs(p)<<" ":cout<<abs(p)<<" ";
  }
  
 cout<<nl;
