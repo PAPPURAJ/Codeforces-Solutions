@@ -11,7 +11,7 @@ Link: https://codeforces.com/contest/1375/problem/A
 using namespace std;
 void solve();
  
- 
+
  
 main(){
     FAST
