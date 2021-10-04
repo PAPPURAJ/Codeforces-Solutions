@@ -20,8 +20,7 @@ using namespace std;
         for(int i=0;i<n;i++){
             temp+=a[i];
             if(temp>sum)
-            {
- 
+            { 
                 cout<<i+1;
                 break;
             }
