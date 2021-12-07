@@ -1,7 +1,6 @@
 A. Twins
 Link: https://codeforces.com/contest/160/problem/A
 
-
 #include<bits/stdc++.h>
 using namespace std;
  main(){
