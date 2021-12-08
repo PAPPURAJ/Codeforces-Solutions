@@ -12,6 +12,7 @@ using namespace std;
         sum+=a[i];
      }
   
+  
  
        int s = sizeof(a)/sizeof(a[0]);
         sum/=2;
