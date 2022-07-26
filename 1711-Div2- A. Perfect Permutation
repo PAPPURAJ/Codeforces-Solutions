@@ -1,5 +1,5 @@
-//A. Three Doors
-//Link: https://codeforces.com/contest/1709/problem/A
+//A. Perfect Permutation
+//Link: https://codeforces.com/contest/1711/problem/A
 
 #include<bits/stdc++.h>
 #define ff unsigned int ttt;cin>>ttt;for(int zzz=0;zzz<ttt;zzz++)
